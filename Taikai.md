@@ -8,6 +8,6 @@
 
 ## 公開メモ
 
+- 公開URL: https://web-video-studio.lolipop-now.app
 - 種別: React / Viteの静的Webアプリ
 - 動画書き出しはWebCodecs対応のChrome / Edgeを推奨します
-
